@@ -21,10 +21,10 @@ ul.css-tabs a {
 	display:block;
 	padding:5px 30px;	
 	text-decoration:none;
-	border:1px solid #666;	
+	border:1px solid #f8efe9;	
 	border-bottom:0px;
 	height:18px;
-	background-color:#efefef;
+	background-color:#19b7f2;
 	color:#777;
 	margin-right:2px;
 	position:relative;
@@ -40,8 +40,8 @@ ul.css-tabs a:hover {
 	
 /* selected tab */
 ul.css-tabs a.current {
-	background-color:#ddd;
-	border-bottom:1px solid #ddd;	
+	background-color:deedf8;
+	border-bottom:1px solid deedf8;	
 	color:#000;	
 	cursor:default;
 }
@@ -54,5 +54,5 @@ ul.css-tabs a.current {
 	border-width:0 1px 1px 1px;
 	min-height:150px;
 	padding:15px 20px;
-	background-color:#ddd;	
+	background-color:#deedf8;	
 }
